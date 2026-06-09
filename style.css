@@ -1,0 +1,62 @@
+h2{
+    color: rgb(238, 71, 15);
+    background-color: rgb(231, 190, 190);
+    width: 250px;
+    
+    
+    
+
+    
+    
+}
+body{
+    font-family: Georgia, serif;
+    background-color: aliceblue;
+
+}
+.cv{
+    width: 900px;
+    margin: 40px auto;
+    background: white;
+    padding: 50px;
+    border: 1px solid #ccc ;
+}
+.header{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    
+}
+
+.photo img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+
+
+}
+.info h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.info p{
+    font-size: 20px;
+}
+hr{
+    margin: 40px 0;
+
+}
+
+    
+
+
+.coordonnees p{
+    
+    margin: 20px 0;
+    align-items: center;
+
+}
+strong{
+    font-style: italic;
+}
